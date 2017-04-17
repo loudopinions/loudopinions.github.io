@@ -3,8 +3,6 @@ layout: post
 title: Why Would Anyone Want to Publish Their Opinions on the Internet?
 ---
 
-Certainly no good can come of it. 
-
 ### And Why Pay Money for a Domain When You Could Put Them on Medium or Twitter or Facebook or Instagram or <BLOG PLATFORM> for Free????
 
 * Certainly no good can come of it.
@@ -17,3 +15,4 @@ Certainly no good can come of it.
 * IDK. I don't really read anyone else's blogs. But maybe everyone will find mine and fall in love (with the blog, not me).
 * Wanting to give back to the internet a bit. Contributing instead of just consuming. 
 * Jekyll respects nice characters like é and probably other nice unicode, and one can write in Markdown, which is a lovely way to create #content
+* it IS pretty annoying that you have to commit a change every time you wanna make a formatting adjustment. But then, GitHub is hosting for free, which is a business model I don't understand in the least, but is evidently working for them (or it's not, as I hear they're actually just slowly burning a huge pile of investor capital with no solid income but it'll be nice while it lasts). Thanks GitHub for being here and supporting my quest to put more content on the internet. 
