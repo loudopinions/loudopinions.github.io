@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            A<br><br>LOT<br><br>OF<br><br>LOUD<br><br>OPINIONS<br><br><br><br><br><br>
+tagline:          ''
+description:      ''
+url:              http://loudopinions.com
+baseurl:          /
+
+author:
+  name:           'HASHTAGPERSONALBRAND'
+  url:            https://twitter.com/realqheilbroner
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/loudopinions/loudopinions.github.io/
+
+gems:             [jekyll-paginate, jekyll-gist, redcarpet, pygments.rb]
