@@ -3,7 +3,7 @@ layout: post
 title: Here is some good music
 ---
 
-Just the right blend of 80s nostalgia, coming-of-age lyrics, passion, and drum machines.
+Just the right blend of 80s nostalgia, coming-of-age lyrics, passion, and drum machines. And five-syllable song titles.
 
 I'm super-excited to be seeing them next month in PDX, and their new album cannot get here soon enough.
 
